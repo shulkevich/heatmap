@@ -1,0 +1,11 @@
+include heatmap/heatmap.min.js
+include heatmap/heatmap.min.js.map
+include heatmap/async-*.js
+include heatmap/async-*.js.map
+include heatmap/*-shared.js
+include heatmap/*-shared.js.map
+include heatmap/metadata.json
+include heatmap/package-info.json
+include README.md
+include LICENSE
+include package.json
